@@ -1,2 +1,0 @@
-# ideal-memory
-lol
